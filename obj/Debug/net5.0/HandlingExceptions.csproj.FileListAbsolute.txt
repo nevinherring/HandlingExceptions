@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/bin/Debug/net5.0/ref/HandlingExceptions.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/ref/HandlingExceptions.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.genruntimeconfig.cache
